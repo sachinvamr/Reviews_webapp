@@ -1,6 +1,4 @@
 
-![](images/demo1%20(2).png)
-
 # Like/Comment-Reviews webapp
 Simple review app created with Dynamic web project,Mysql,Servlet,JSP and Java programming
 
@@ -37,6 +35,7 @@ Simple review app created with Dynamic web project,Mysql,Servlet,JSP and Java pr
   ![](images/demo3%20(2).png)
   ![](images/demo4%20(2).png)
   ![](images/demo5%20(2).png)
+  ![](images/demo6%20(2).png)
 
 ### To-do
   - Give user a count of the times he/she visited to our site.
